@@ -1,3 +1,5 @@
+> **Author:** Mateenah Jahan — [@MateenahJAHAN](https://github.com/MateenahJAHAN)
+
 # AdEase – Wikipedia Time Series Forecasting
 
 Time series forecasting of Wikipedia page views using **ARIMA**, **SARIMAX**, and **Facebook Prophet**. This is an assignment project completed for **AdEase**, a digital advertising company that helps clients place ads on relevant pages so they reach the right audience.
