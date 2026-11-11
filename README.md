@@ -145,3 +145,11 @@ This project is shared for **educational and portfolio** purposes.
 ---
 
 ⭐ *If you found this project helpful or interesting, consider giving it a star!*
+
+<!-- portfolio-navigation -->
+## Repository guide
+
+- **Code and notebooks** · [AdEase_Time_Series.ipynb](AdEase_Time_Series.ipynb)
+
+<!-- /portfolio-navigation -->
+
